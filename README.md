@@ -1,2 +1,2 @@
 # Newsgrid
-Website made using CSS Grid
+News Website made using CSS Grid
